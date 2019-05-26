@@ -37,5 +37,6 @@ g++ hello-world.cpp
 * What if do not write `using namespace std` explicitly?
     * Then to print something you will have to write it as `std::cout<<"Hello, World!"<<endl;`
     
+    
 * Why do I have to write `endl`?
     * `endl` stands for endline, it adds a new line in console. But it is not necessary, `cout<<"Hello, World";` will also work fine, except it not add a new line in the console. Check for yourself and you'll know.
