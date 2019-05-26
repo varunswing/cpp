@@ -11,7 +11,7 @@
 1. Create a _main_ function necessary for all C++ programs.
 ```cpp
 int main(){
-	// Wirte all your code here
+    // Wirte all your code here
 }
 ```
 
