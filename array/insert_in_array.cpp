@@ -1,6 +1,6 @@
 #include<iostream>
-
 using namespace std;
+
 int main(){
     cout << "Enter the size of array: \n";
     int n;
@@ -21,7 +21,7 @@ int main(){
     cout << "Enter the element to be inserted: \n";
     int ele;
     cin >> ele;
-    if(pos > n){
+    if(pos > n+1){
         cout << "Invalid input" << endl;
     }else{
         for(i=n; i>=pos; i--){
